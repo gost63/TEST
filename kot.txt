@@ -1,3 +1,4 @@
 Kot begemot
 идет куда-то
 новое
+new_line
